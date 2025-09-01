@@ -36,4 +36,4 @@ The project is provided in **two formats**:
    ```bash
    python kathakali_pookkalam.py
 🖼️ Preview
-![Kathakali Pookkalam](poo.png)
+![Kathakali Pookkalam](poo.PNG)
